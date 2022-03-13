@@ -1,0 +1,16 @@
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\bin\Debug\net5.0\NonGeneric.exe
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\bin\Debug\net5.0\NonGeneric.deps.json
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\bin\Debug\net5.0\NonGeneric.runtimeconfig.json
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\bin\Debug\net5.0\NonGeneric.runtimeconfig.dev.json
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\bin\Debug\net5.0\NonGeneric.dll
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\bin\Debug\net5.0\ref\NonGeneric.dll
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\bin\Debug\net5.0\NonGeneric.pdb
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\obj\Debug\net5.0\NonGeneric.csproj.AssemblyReference.cache
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\obj\Debug\net5.0\NonGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\obj\Debug\net5.0\NonGeneric.AssemblyInfoInputs.cache
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\obj\Debug\net5.0\NonGeneric.AssemblyInfo.cs
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\obj\Debug\net5.0\NonGeneric.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\obj\Debug\net5.0\NonGeneric.dll
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\obj\Debug\net5.0\ref\NonGeneric.dll
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\obj\Debug\net5.0\NonGeneric.pdb
+C:\Users\abbasfm\source\repos\Collection\NonGeneric\obj\Debug\net5.0\NonGeneric.genruntimeconfig.cache
